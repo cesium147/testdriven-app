@@ -34,4 +34,3 @@ def create_app(script_info=None):
         return {'app': app, 'db': db}
 
     return app
-
